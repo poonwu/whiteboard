@@ -1,0 +1,24 @@
+{
+  "name": "whiteboard",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "poonwu"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/poonwu/whiteboard",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "~1.3.7",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1"
+  }
+}
